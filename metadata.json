@@ -1,0 +1,7 @@
+{
+  "name": "QWEEk: Adaptive AI Goal & Progress Planner",
+  "description": "Instant smart goal planning with intelligent defaults, daily check-in logs, and dynamic AI milestone recalculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
