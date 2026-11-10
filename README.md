@@ -1,0 +1,1 @@
+QWEEk is an AI-powered goal planner that helps you turn big goals into actionable daily and weekly tasks. Set a deadline, track your progress with daily check-ins, and let AI dynamically adjust your milestones and pacing as you work toward your goal. 🚀📈
